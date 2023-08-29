@@ -1,2 +1,2 @@
-# AA_tarea
-Tarea del curso investigación reproducible en R
+# Tarea_curso
+Tarea curso investigación reproducible en R
