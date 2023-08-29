@@ -8,7 +8,7 @@ author:
           address: Av. Blanco Encalada 839
           city: Valparaíso
 abstract: |
-  En la industria manufacturera de la pesca y acuicultura, en 2022 operaron 615 empresas dueñas de 696 plantas, entre Arica hasta Magallanes. A nivel nacional destacaron las regiones de Los Lagos y Biobío, siendo la subdivisión de consumo humano la cual concentró la mayor cantidad de plantas (n = 465), seguida por los Derivados de Algas (n = 195) y consumo animal (n = 36). 
+  En la industria manufacturera de la pesca y acuicultura, en 2022, operaron entre Arica y Magallanes un total de 615 empresas dueñas de 696 plantas. A nivel nacional destacaron las regiones de Los Lagos y Biobío, siendo la subdivisión de consumo humano la cual concentró la mayor cantidad de plantas (n = 465), seguida por los Derivados de Algas (n = 195) y consumo animal (n = 36). 
 keywords: 
   - Industria Manufacturera
   - Concentración
